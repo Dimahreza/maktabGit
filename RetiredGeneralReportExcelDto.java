@@ -15,4 +15,5 @@ public class RetiredGeneralReportExcelDto {
     private Double sumMembershipFee;
     private Integer payCount;
     private Integer notPayCount;
+    
 }
